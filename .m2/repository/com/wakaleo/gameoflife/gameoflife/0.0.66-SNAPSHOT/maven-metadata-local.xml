@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.wakaleo.gameoflife</groupId>
+  <artifactId>gameoflife</artifactId>
+  <version>0.0.66-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <localCopy>true</localCopy>
+    </snapshot>
+    <lastUpdated>20190613120618</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.0.66-SNAPSHOT</value>
+        <updated>20190613120618</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
